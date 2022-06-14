@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(154, 248, 248);
+    padding: auto;
+    
+}
+
+h1{
+    font-size: xx-large;
+    color: black;
+}
+
+.crd{
+    text-align: center;
+    border: solid black;
+    width: 600px;
+    height: 350px;
+    margin: auto;
+    padding: auto;
+    
+}
+
+.crd h1{
+   
+   padding: 20px;
+}
+
+.Pagination{
+    margin: 50px;
+    
+}
+
+.page-item{
+    float: left;
+    margin: 2px;
+    overflow: hidden;
+    color: rgb(17, 11, 11);
+    font-weight: bolder;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color 10s;
+    border: 1px solid rgb(20, 16, 16);
+  
+}
+
+.crd2{
+    position: absolute;
+    right: 550px;
+    top: 400px;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    padding: auto;
+}
+
+.img1{
+    float: left;
+}
+

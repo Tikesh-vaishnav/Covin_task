@@ -1,0 +1,19 @@
+
+body{
+    background-color: rgb(165, 247, 247);
+}
+
+h1{
+    
+    background-color: rgb(237, 221, 202);
+    color: coral;
+    border-radius: 20px;
+    height: 11vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 25vw;
+   
+
+   
+}
